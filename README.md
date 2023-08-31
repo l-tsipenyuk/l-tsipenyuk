@@ -1,7 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/2000s-00s-middle-school-MeJgB3yMMwIaHmKD4z" width="100"/>
-  <iframe src="https://giphy.com/embed/MeJgB3yMMwIaHmKD4z" width="480" height="394" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2000s-00s-middle-school-MeJgB3yMMwIaHmKD4z">via GIPHY</a></p>
+  <img src="https://media4.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47g1utheezbjrwphwlj2vmqj2zs9zx0nydkmj8t8q2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 <!--
 **l-tsipenyuk/l-tsipenyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
