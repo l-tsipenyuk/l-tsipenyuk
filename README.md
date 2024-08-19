@@ -3,7 +3,8 @@
   <img src="https://media4.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47g1utheezbjrwphwlj2vmqj2zs9zx0nydkmj8t8q2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 <p><ul>
-  <li>I'm currently learning web development in Tel Aviv.</li>
+  <li>I'm currently boosting my web development skills in Tel Aviv.</li>
+  <li>I have experience in JavaScript, React, Node.js and SQL.</li>
   <li>I'm looking to collaborate on creating the best webpages.</li>
   <li>I never stop working on becoming a better person.</li>
 </ul></p>
